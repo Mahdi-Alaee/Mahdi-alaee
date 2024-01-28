@@ -8,7 +8,10 @@
 
 ### I am studying at the school of software and network engineering
 
-- 🌱 I’m currently learning TypeScript & Tailwindcss
+### 🌱 I’m currently learning TypeScript & Tailwindcss
+
+### most used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-alaee&hide_progress=true)
 
 
 <!--
