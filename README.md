@@ -15,21 +15,26 @@
 - 🌱 I'm **17** years-old.
 - 👯 I am studying at the school of **software** and network engineering.
 - 👨‍💻 I’m currently learning **TypeScript**.
-- 📫 How to reach me **mahdi.alaee.dev@gmail.com**.
+- 🐱‍👤 I'm in love with the software engineering world
 
 ## 💻 most Languages I am using
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-alaee&hide_progress=true)
 
 ## 🚀 Technology and Tools:
-
-<div align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img style="width: 50px" src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://redux.js.org/" target="_blank"> <img style="width: 50px" src="https://img.icons8.com/?size=256&id=3VGtaw5gCc8T&format=png"/> </a>   
-    <a href="https://tailwindcss.com/" target="_blank"> <img style="width: 50px" src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img style="width: 50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   
- 
+<div>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </a>
+    <a href="https://redux.js.org/" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> </a>   
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>   
 </div>
 
+## 📞 Contact Me
+<div align='left'>
+    <a href='https://instagram.com/lex_.fn' target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+    <a href='https://t.me/mahdixxx' target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href='http://mahdixxx.ineu.ir' target="_blank"><img src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" /></a>
+</div>
+ 
 <!--
 **Mahdi-Alaee/Mahdi-alaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
