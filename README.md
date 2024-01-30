@@ -36,7 +36,7 @@
 <div align='left'>
     <a href='https://instagram.com/lex_.fn' target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
     <a href='https://t.me/mahdixxx' target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href='http://mahdixxx.ineu.ir' target="_blank"><img height="27px" src="https://img.shields.io/badge/My%20Website-8A2BE2?style=flat-square" /></a>
+    <a href='http://mahdixxx.ineu.ir' target="_blank"><img height="28px" src="https://img.shields.io/badge/Website-8A2BE2?style=flat-square" /></a>
 </div>
  
 <!--
