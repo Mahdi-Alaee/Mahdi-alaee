@@ -17,10 +17,10 @@
 - 👨‍💻 I’m currently learning **TypeScript**.
 - 📫 How to reach me **mahdi.alaee.dev@gmail.com**.
 
-## most Languages I am using
+## 💻 most Languages I am using
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-alaee&hide_progress=true)
 
-🚀 Technology and Tools:
+## 🚀 Technology and Tools:
 
 <div align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img style="width: 50px" src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
