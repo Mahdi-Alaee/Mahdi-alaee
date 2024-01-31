@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahdi Alaee</h1>
 
-<h3 align='center'>A front-end developer based on ReactJS from Iran and live in Tehran/Shahriyar.</h3>
+<h3 align='center'>A front-end developer based on ReactJS from Iran, residing in Tehran/Shahriyar.</h3>
 
 <br />
 
@@ -17,7 +17,7 @@
 
 <br />
 
-## 💻 most Languages I am using
+## 💻 Most languages I am using
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-alaee&hide_progress=true)
 
 <br />
@@ -38,18 +38,3 @@
     <a href='https://t.me/mahdixxx' target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href='http://mahdixxx.ineu.ir' target="_blank"><img height="28px" src="https://img.shields.io/badge/Website-757575?style=flat-square&logo=internetexplorer" /></a>
 </div>
- 
-<!--
-**Mahdi-Alaee/Mahdi-alaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
