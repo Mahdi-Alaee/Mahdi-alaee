@@ -15,6 +15,8 @@
 - 👨‍💻 I’m currently learning **TypeScript**.
 - 🐱‍👤 I'm in love with the software engineering world
 
+
+
 <br />
 
 ## 💻 Most languages I am using
@@ -37,4 +39,11 @@
     <a href='https://instagram.com/lex_.fn' target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
     <a href='https://t.me/mahdixxx' target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href='http://mahdixxx.ineu.ir' target="_blank"><img height="28px" src="https://img.shields.io/badge/Website-757575?style=flat-square&logo=internetexplorer" /></a>
+</div>
+
+<br />
+<br />
+
+<div align='center'>
+    <img src='https://komarev.com/ghpvc/?username=Mahdi-Alaee&color=blueviolet' />
 </div>
