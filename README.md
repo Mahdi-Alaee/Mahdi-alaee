@@ -1,5 +1,5 @@
 <div align="center" href='#'>
-<img style="width: 400px" src='https://github.com/Mahdi-Alaee/Mahdi-alaee/blob/main/istockphoto-1413922045-612x612.jpg?raw=true' />
+<img style="width: 700px" src='https://github.com/Mahdi-Alaee/Mahdi-alaee/blob/main/Programmer-Illustration-Dark.jpg?raw=true' />
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahdi Alaee</h1>
