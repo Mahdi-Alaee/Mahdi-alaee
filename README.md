@@ -12,7 +12,7 @@
 
 - 🌱 I'm **18** years-old.
 - 👯 I am studying at the school of **software** and network engineering.
-- 👨‍💻 I’m currently learning **TypeScript**.
+- 👨‍💻 I’m currently working on my projects.
 - 🐱‍👤 I'm in love with the software engineering world.
 
 
