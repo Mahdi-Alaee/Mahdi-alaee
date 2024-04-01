@@ -24,7 +24,7 @@
 
 <br />
 
-## 🚀 Technology and Tools:
+## 🚀 Technology and Tools
 <div>
     <a href='https://reactjs.org/' target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
     <a href='https://redux.js.org/' target="_blank"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></a>
