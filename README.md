@@ -11,8 +11,8 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I'm **18** years-old.
-- 👯 I am studying at the school of **software** and network engineering.
-- 👨‍💻 I’m currently learning GraphQl.
+- 👯 I am a software engineering student.
+- 👨‍💻 I’m currently looking for a job.
 - 🐱‍👤 I'm in love with the software engineering world.
 
 
