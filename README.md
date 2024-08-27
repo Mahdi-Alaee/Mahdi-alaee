@@ -30,6 +30,7 @@
     <a href='https://redux.js.org/' target="_blank"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></a>
     <a href='https://tailwindcss.com/' target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
     <a href='https://getbootstrap.com/' target="_blank"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+    <a href='https://graphql.org/' target="_blank"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
 </div>
 
 <br />
