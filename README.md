@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm **18** years-old.
+- 🌱 I'm **19** years-old.
 - 👯 I am a software engineering student.
 - 👨‍💻 I’m currently looking for a job.
 - 🐱‍👤 I'm in love with the software engineering world.
